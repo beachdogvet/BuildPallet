@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.Fragment_main"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="12sp"
+        android:gravity="left"
+        android:id="@+id/lbLabel"
+        android:text="Barcodes"
+        />
+
+    <!--<Spinner-->
+        <!--android:id="@+id/dlLocations"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:spinnerMode="dropdown"-->
+        <!--android:background="@drawable/spinner_background"-->
+        <!--/>-->
+
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lvBarcodes"
+        android:layout_marginTop="10dp"
+        />
+
+
+</LinearLayout>

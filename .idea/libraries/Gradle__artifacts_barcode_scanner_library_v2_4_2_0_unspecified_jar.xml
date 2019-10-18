@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:barcode_scanner_library_v2.4.2.0:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/barcode_scanner_library_v2.4.2.0/build/.transforms/3cc1cc61ade4f8ed619ed7498155c747/barcode_scanner_library_v2.4.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/barcode_scanner_library_v2.4.2.0/build/.transforms/3cc1cc61ade4f8ed619ed7498155c747/barcode_scanner_library_v2.4.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/barcode_scanner_library_v2.4.2.0/build/.transforms/3cc1cc61ade4f8ed619ed7498155c747/barcode_scanner_library_v2.4.2.0/jars/libs/gson-2.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
